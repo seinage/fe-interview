@@ -1,3 +1,17 @@
+## :smiley:【 recommendation 】 a professional badminton competition system 【 diandiansai 】
+> Those who like playing **badminton**, or have friends who like playing **badminton**, can be recommended to them
+
+<div align="center">
+    <p align="center">
+        <img src="./resource/images/diandiansai.png" alt="点点赛" width="150px"> 
+    </p>
+    <p align="center">
+        (Use wechat to sweep the experience, which will be open source soon)
+    </p>
+</div>
+
+---
+
 [Website](http://www.h-camel.com/index.html) | [Chinese](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 <div align="center">
@@ -26,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.03.14) —— 1063 days  
+## :clock430: Today's Knowledge Points (2023.03.24) —— 1438 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [请说说Vue.use方法的作用及原理](https://github.com/haizlin/fe-interview/issues/5396)  
  
   
 ### :camel: History
@@ -37,8 +52,9 @@
     …………  
 
 
-- 1062 days (2022.03.13)  
-     
+- 1437 days (2023.03.23)  
+    	 :one: [skill] [请说说ChatGPT4.0和3.5有什么区别？](https://github.com/haizlin/fe-interview/issues/5395)  
+ 
 	
 - **[All](category/history.md)**
 

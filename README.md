@@ -1,3 +1,17 @@
+## :smiley:【推荐】一个专业的羽毛球比赛系统【点点赛】
+> 喜欢打**羽毛球**的，或者身边有喜欢打**羽毛球**的朋友，可以推荐给他们使用
+
+<div align="center">
+    <p align="center">
+        <img src="./resource/images/diandiansai.png" alt="点点赛" width="150px"> 
+    </p>
+    <p align="center">
+        (使用微信扫一扫体验，即将开源)
+    </p>
+</div>
+
+---
+
 [官网](http://www.h-camel.com/index.html) | [中文](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 <div align="center">
@@ -15,18 +29,19 @@
     勤思考 - 多动手 - 善总结 - 能坚持  
 </p>
 
-> :star: 这是一个涉及前端知识题库 **最多（5000+）、最全**，参与人数最多的免费开源项目！
+> :star: 这是一个涉及前端知识题库 **最多（6000+）、最全**，参与人数最多的免费开源公益项目！
 
 :hash: [我也要出题](http://www.h-camel.com/contribution.html) 
 
-| :bulb: 基础 | [HTML 1000+](category/html.md) | [CSS 1000+](category/css.md) | [JS 1000+](category/js.md) | [软技能 1000+](category/skill.md) |  | | | 
+| :bulb: 基础 | [HTML 1200+](category/html.md) | [CSS 1200+](category/css.md) | [JS 1200+](category/js.md) | [软技能 1200+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
 | :newspaper: 专题 | [Vue 296+](lib/Vue.md) | [React 338+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 45+](category/ECMAScript.md) | [NodeJs 90+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
 | :hammer: 工具 | [webpack 13+](tools/webpack.md) | 
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.03.14) —— 第1063天  
+## :clock430: 今天的知识点   (2023.03.24) —— 第1438天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [请说说Vue.use方法的作用及原理](https://github.com/haizlin/fe-interview/issues/5396)  
  
   
 ### :camel: 历史题目
@@ -38,8 +53,9 @@
     …………  
 
 
-- 第1062天 (2022.03.13)  
-     
+- 第1437天 (2023.03.23)  
+    	 :one: [软技能] [请说说ChatGPT4.0和3.5有什么区别？](https://github.com/haizlin/fe-interview/issues/5395)  
+ 
 	
 - **[查看全部](category/history.md)**
 
